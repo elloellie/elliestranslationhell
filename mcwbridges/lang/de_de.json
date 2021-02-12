@@ -1,0 +1,80 @@
+	{
+		
+		"itemGroup.bridges": "Macaw's Bridges",
+		
+		 "block.mcwbridges.most1":"Eisenbrücke-Mitte",
+         "block.mcwbridges.most2":"Eisenbrücke-Ende",
+         "block.mcwbridges.oak_log_bridge_middle":"Eichenbrüche-Mitte",
+         "block.mcwbridges.oak_log_bridge_end":"Eichenbrüche-Ende",
+         "block.mcwbridges.birch_log_bridge_end":"Birkenbrüche-Ende",
+         "block.mcwbridges.birch_log_bridge_middle":"Birkenbrüche-Mitte",
+         "block.mcwbridges.acacia_log_bridge_end":"Akazienbrüche-Ende",
+         "block.mcwbridges.acacia_log_bridge_middle":"Akazienbrüche-Mitte",
+         "block.mcwbridges.spruce_log_bridge_end":"Fichtenbrüche-Ende",
+         "block.mcwbridges.spruce_log_bridge_middle":"Fichtenbrüche-Mitte",
+         "block.mcwbridges.jungle_log_bridge_end":"Tropenholzbrüche-Ende",
+         "block.mcwbridges.jungle_log_bridge_middle":"Tropenholzbrüche-Mitte",
+         "block.mcwbridges.dark_oak_log_bridge_end":"Schwarzeichenbrüche-Ende",
+         "block.mcwbridges.dark_oak_log_bridge_middle":"Schwarzeichenbrüche-Mitte",
+         "block.mcwbridges.crimson_log_bridge_end":"Karmesinbrüche-Ende",
+         "block.mcwbridges.crimson_log_bridge_middle":"Karmesinbrüche-Mitte",
+         "block.mcwbridges.warped_log_bridge_end":"Wirrbrüche-Ende",
+         "block.mcwbridges.warped_log_bridge_middle":"Wirrbrüche-Mitte",
+
+         "block.mcwbridges.rope_oak_bridge":"Seileichenbrücke",
+         "block.mcwbridges.rope_oak_bridge_end":"Seileichenbrüche-Ende",
+         "block.mcwbridges.rope_birch_bridge":"Seilbirkenbrücke",
+         "block.mcwbridges.rope_birch_bridge_end":"Seilbirkenbrüche-Ende",
+         "block.mcwbridges.rope_spruce_bridge":"Seilfichtenbrücke",
+         "block.mcwbridges.rope_spruce_bridge_end":"Seilfichtenbrüche-Ende",
+         "block.mcwbridges.rope_jungle_bridge":"Seiltropenholzbrücke",
+         "block.mcwbridges.rope_jungle_bridge_end":"Seiltropenholzbrüche-Ende",
+         "block.mcwbridges.rope_acacia_bridge":"Seilakazienbrücke",
+         "block.mcwbridges.rope_acacia_bridge_end":"Seilakazienbrüche-Ende",
+         "block.mcwbridges.rope_dark_oak_bridge":"Seilschwarzeichenbrücke",
+         "block.mcwbridges.rope_dark_oak_bridge_end":"Seilschwarzeichenbrüche-Ende",
+         "block.mcwbridges.rope_crimson_bridge":"Seilkarmesinbrücke",
+         "block.mcwbridges.rope_crimson_bridge_end":"Seilkarmesinbrüche-Ende",
+         "block.mcwbridges.rope_warped_bridge":"Seilwirrbrücke",
+         "block.mcwbridges.rope_warped_bridge_end":"Seilwirrbrüche-Ende",
+         
+         
+         
+
+         "block.mcwbridges.brick_bridge":"Ziegelbrücke",
+         "block.mcwbridges.brick_bridge_end":"Ziegelbrücke-Ende",
+         "block.mcwbridges.stone_brick_bridge":"Steinziegelbrücke",
+         "block.mcwbridges.stone_brick_bridge_end":"Steinziegelbrücke-Ende",
+         "block.mcwbridges.sandstone_bridge":"Sandsteinbrücke",
+         "block.mcwbridges.sandstone_bridge_end":"Sandsteinbrücke-Ende",
+         "block.mcwbridges.orange_sandstone_bridge":"Roter Sandsteinbrücke",
+         "block.mcwbridges.orange_sandstone_bridge_end":"Roter Sandsteinbrücke-Ende",
+         
+ 	 	 "block.mcwbridges.blackstone_bridge":"Schwarzsteinbrücke",
+         "block.mcwbridges.blackstone_bridge_end":"Schwarzsteinbrücke-Ende",
+         
+        "block.mcwbridges.oak_rail_bridge":"Eichenschienebrücke",
+		"block.mcwbridges.spruce_rail_bridge":"Fichtenschienebrücke",
+		"block.mcwbridges.birch_rail_bridge":"Birkenschienebrücke",
+		"block.mcwbridges.jungle_rail_bridge":"Tropenholzschienebrücke",
+		"block.mcwbridges.acacia_rail_bridge":"Akazienschienebrücke",
+		"block.mcwbridges.dark_oak_rail_bridge":"Schwarzeichenschienebrücke",
+		"block.mcwbridges.crimson_rail_bridge":"Karmesinschienebrücke",
+		"block.mcwbridges.warped_rail_bridge":"Wirrschienebrücke",
+	
+		"block.mcwbridges.oak_rail_bridge_powered":"Eichenantriebsschiene brücke",
+  		"block.mcwbridges.spruce_rail_bridge_powered":"Fichtenantriebsschiene brücke",
+		"block.mcwbridges.birch_rail_bridge_powered":"Birkenantriebsschiene brücke",
+		"block.mcwbridges.jungle_rail_bridge_powered":"Tropenholzantriebsschiene brücke",
+		"block.mcwbridges.acacia_rail_bridge_powered":"Akazienantriebsschiene brücke",
+		"block.mcwbridges.dark_oak_rail_bridge_powered":"Schwarzeichenantriebsschiene brücke",		
+		"block.mcwbridges.crimson_rail_bridge_powered":"Karmesinantriebsschiene brücke",
+		"block.mcwbridges.warped_rail_bridge_powered":"Wirrantriebsschiene brücke",
+		
+		
+		
+		
+		"block.mcwbridges.bamboo_bridge":"Bambusbrücke"
+		                                                                          
+	}
+	

@@ -1,0 +1,101 @@
+{
+    "itemGroup.fairylights": "Fairy Lights",
+
+    "fairylights.config": "Fairy Lights Einstellungen",
+
+    "block.fairylights.fastener": "Verbindungsverschluss",
+
+    "item.fairylights.hanging_lights": "Hängende Lichter",
+    "item.fairylights.garland": "Rebengirlande",
+    "item.fairylights.tinsel": "Lamettagirlande",
+
+    "item.fairylights.black_string": "Schwarze Schnur",
+    "item.fairylights.white_string": "Weiße Schnur",
+    "item.fairyLights.twinkle": "Funkelt",
+
+    "item.fairylights.pennant_bunting": "Wimpelgirlande",
+
+    "item.fairylights.letter_bunting": "Buchstabengirlande",
+
+    "item.fairylights.triangle_pennant": "Dreickwimpel",
+    "item.fairylights.spearhead_pennant": "Speerspitzewimpel",
+    "item.fairylights.swallowtail_pennant": "Doppelstanderwimpel",
+    "item.fairylights.square_pennant": "Quadratwimpel",
+
+    "block.fairylights.fairy_light": "Feenlicht",
+    "block.fairylights.paper_lantern": "Papierlaterne",
+    "block.fairylights.orb_lantern": "Ballonlaterne",
+    "block.fairylights.flower_light": "Blumenlicht",
+    "block.fairylights.candle_lantern_light": "Kerzelaternelicht",
+    "block.fairylights.oil_lantern_light": "Öllaternelicht",
+    "block.fairylights.jack_o_lantern": "Kürbislaterne",
+    "block.fairylights.skull_light": "Schädellicht",
+    "block.fairylights.ghost_light": "Geisterlicht",
+    "block.fairylights.spider_light": "Spinnenlicht",
+    "block.fairylights.witch_light": "Hexenlicht",
+    "block.fairylights.snowflake_light": "Schneeflockenlicht",
+    "block.fairylights.heart_light": "Heart Light",
+    "block.fairylights.moon_light": "Mondlicht",
+    "block.fairylights.star_light": "Sternelicht",
+    "block.fairylights.icicle_lights": "Eiswürfellicht",
+    "block.fairylights.meteor_light": "Meteorlicht",
+    "block.fairylights.oil_lantern": "Öllaterne",
+    "block.fairylights.candle_lantern": "Kerzelaterne",
+    "block.fairylights.incandescent_light": "Glühbirne",
+
+    "entity.fairylights.fastener": "Leiter",
+
+    "fairylights.editLetteredConnection": "Gib Wimpel-Text ein",
+    "fairylights.editLetteredConnection.allowed_characters": "Erlaubte Buchstaben: %1$s",
+
+    "recipe.ingredient.tooltip": "ยง7%s",
+    "recipe.fairylights.ingredient.auxiliary.optional": "(Optional)",
+    "recipe.fairylights.twinkling_lights.glowstone": "Lässt Lichter funkeln",
+    "recipe.fairylights.hangingLights.light": "Mehrere Lichter hinzufügen um Muster zu bearbeiten",
+    "recipe.fairylights.pennantBunting.pennant": "Mehrere Wimpel hinzufügen um Muster zu bearbeiten",
+    "recipe.fairylights.hangingLights.string": "Weißer Farbstoff hinzufügen um weiße Schnur zu machen.",
+
+    "format.fairylights.colored": "%1$s %2$s",
+    "format.fairylights.dyed_colored": "Gefärbt %1$s",
+    "format.fairylights.color_changing": "Farbeändern %1$s",
+    "format.fairylights.text": "Text: %1$s",
+
+    "color.fairylights.black": "Schwarz",
+    "color.fairylights.red": "Rot",
+    "color.fairylights.green": "Grün",
+    "color.fairylights.brown": "Braun",
+    "color.fairylights.blue": "Blau",
+    "color.fairylights.purple": "Lila",
+    "color.fairylights.cyan": "Türkis",
+    "color.fairylights.light_gray": "Hellgrau",
+    "color.fairylights.gray": "Grau",
+    "color.fairylights.pink": "Rosa",
+    "color.fairylights.lime": "Hellgrün",
+    "color.fairylights.yellow": "Gelb",
+    "color.fairylights.light_blue": "Hellblau",
+    "color.fairylights.magenta": "Violett",
+    "color.fairylights.orange": "Orange",
+    "color.fairylights.white": "Weiß",
+
+    "subtitles.block.fairylights.jingleBell": "Bell jingles",
+    "subtitles.block.fairylights.cord.connect": "Cord connects",
+    "subtitles.block.fairylights.cord.disconnect": "Cord disconnects",
+    "subtitles.block.fairylights.cord.stretch": "Cord stretches",
+    "subtitles.block.fairylights.cord.snap": "Cord snaps",
+    "subtitles.block.fairylights.feature.lightTurnOn": "Lights click on",
+    "subtitles.block.fairylights.feature.lightTurnOff": "Lights click off",
+    "subtitles.block.fairylights.feature.colorChange": "Color plops",
+
+    "commands.jingler.open.success": "Successfully opened %1$s",
+    "commands.jingler.open.failure.no_hanging_lights": "No hanging lights selected",
+    "commands.jingler.open.failure.device_unavailable": "Device %1$s is unavailable, likely in use by another program",
+    "commands.jingler.open.failure.not_found": "No device named %1$s",
+    "commands.jingler.close.success.single": "Successfully closed %1$s connection",
+    "commands.jingler.close.success.multiple": "Successfully closed %1$s connections",
+    "commands.jingler.close.failure": "No devices to close",
+    "commands.jingler.device.vendor": "Vendor: %1$s",
+    "commands.jingler.device.description": "Description: %1$s",
+
+    "tutorial.fairylights.craft_hanging_lights.title": "Fertig Hängelichte an",
+    "tutorial.fairylights.craft_hanging_lights.description": "Das Rezeptbuch oder Just Enough Items können helfen"
+}

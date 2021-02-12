@@ -1,0 +1,43 @@
+{
+  "_comment": "Blocks",
+  "block.ironchest.iron_chest": "Eisentruhe",
+  "block.ironchest.gold_chest": "Goldtruhe",
+  "block.ironchest.diamond_chest": "Diamanttruhe",
+  "block.ironchest.copper_chest": "Kupfertruhe",
+  "block.ironchest.silver_chest": "Silbertruhe",
+  "block.ironchest.crystal_chest": "Kristalltruhe",
+  "block.ironchest.obsidian_chest": "Obsidiantruhe",
+  "block.ironchest.dirt_chest": "Die unglaubliche und erstaunende Drecktruhe!",
+
+  "_comment": "Verbesserung",
+  "item.ironchest.iron_to_gold_chest_upgrade": "Eisen zu Goldtruhe Verbesserung",
+  "item.ironchest.gold_to_diamond_chest_upgrade": "Gold zu Diamanttruhe Verbesserung",
+  "item.ironchest.copper_to_silver_chest_upgrade": "Kupfer zu Silbertruhe Verbesserung",
+  "item.ironchest.silver_to_gold_chest_upgrade": "Silber zu Goldtruhe Verbesserung",
+  "item.ironchest.copper_to_iron_chest_upgrade": "Kupfer zu Eisentruhe Verbesserung",
+  "item.ironchest.diamond_to_crystal_chest_upgrade": "Diamant zu Kristalltruhe Verbesserung",
+  "item.ironchest.wood_to_iron_chest_upgrade": "Holz zu Eisentruhe Verbesserung",
+  "item.ironchest.wood_to_copper_chest_upgrade": "Holz zu Kupfertruhe Verbesserung",
+  "item.ironchest.diamond_to_obsidian_chest_upgrade": "Diamant zu Obsidiantruhe Verbesserung",
+
+  "_comment": "Books",
+  "book.ironchest.dirtchest9000.title": "Willkommen zu Ihre neue unglaubliche und erstaunende Drecktruhe!(TM)",
+  "book.ironchest.dirtchest9000.page1": "Willkommen! Wir hoffen, dass Sie viele wunderbare Jahre mit Ihrem neuen unglaublichen und erstaunenden Drecktruhe.",
+  "book.ironchest.dirtchest9000.page2": "Anleitung: Einfach setzen Ihre Lieblings Erde in die luxuriöse Spalte, um mehr Erde zu haben, jedes Mal gehen Sie die Truhe vor.",
+  "book.ironchest.dirtchest9000.page3": "Wir hoffen, dass Sie diese Anleitung mochten und werden unsere Produkte wiederbedenken. Mit freundlichem Gruß, Drecktruhe-AG.",
+  "book.ironchest.dirtchest9000.page4": "Garantie: Dieses Produkt gibt keine Garantie in irgendeiner Form. Jeder Erdelosigkeit ist die Verwantwortung von dem Benutzer oder der Benutzerin.",
+  "book.ironchest.dirtchest9000.page5": "Drecktruhe-AG liebt die Umwelt und fragt unsere Kunden, zu die Natur nett sein. Bitte dieses Buch auf eine umweltvertägliche Weise beseitigen.",
+
+  "_comment": "Containers",
+  "ironchest.container.iron_chest": "Eisentruhe",
+  "ironchest.container.gold_chest": "Goldtruhe",
+  "ironchest.container.diamond_chest": "Diamanttruhe",
+  "ironchest.container.copper_chest": "Kupfertruhe",
+  "ironchest.container.silver_chest": "Silbertruhe",
+  "ironchest.container.crystal_chest": "Kristalltruhe",
+  "ironchest.container.obsidian_chest": "Obsidiantruhe",
+  "ironchest.container.dirt_chest": "Die unglaubliche und erstaunende Drecktruhe!",
+
+  "_comment": "Item Groups",
+  "itemGroup.ironchest": "Eisentruhes"
+}

@@ -1,0 +1,15 @@
+{
+  "lootr.message.should_sneak": "Breaking the chest will delete your unique loot and items! In order to break, you must sneak while doing so.",
+  "lootr.message.should_sneak2": "As loot is %s, only break if really needed.",
+  "lootr.message.should_sneak3": "per-player per-chest",
+  "lootr.message.cart_should_sneak": "Breaking the cart will delete your unique loot and items! In order to break, you must sneak while attacking",
+  "lootr.message.cart_should_sneak3": "per-player per-cart",
+  "block.lootr.lootr_chest": "Beutegut-Truhe",
+  "block.lootr.lootr_trapped_chest": "Beutegut-Truhe",
+  "block.lootr.lootr_barrel": "Beutegut-Fass",
+  "entity.lootr.lootr_minecart": "Beutegut-Güter in einer Lore",
+  "lootr.advancements.1chest.title": "Der Sozialstaat",
+  "lootr.advancements.1chest.description": "Öffne deine erste 'Per-Player' Beutegut-Truhe und bekomm dein Beutegut!",
+  "lootr.advancements.root.title": "Einer für alle!",
+  "lootr.advancements.root.description": "Jeder Truhe in Strukturen sind 'Per-Player'! Öffnest so viele Truhe, wie du magst, wir haben genung für alle!"
+}
